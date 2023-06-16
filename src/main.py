@@ -30,8 +30,8 @@ def perform_operation(num1, num2, operation):
 # TODO: Add comments/docstrings to code
 # TODO: Fix bug in function in operations.py
 # TODO: Write documentation
-# TODO: Write tests for functions
-# TODO: Update README.md
+# DONE: Write tests for functions
+# DONE: Update README.md
 # TODO: Add other operations to operations.py
 # TODO: Select and add license to repo
 # TODO: Update the citation file with collaborator's names
